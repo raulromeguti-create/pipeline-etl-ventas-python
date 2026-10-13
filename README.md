@@ -118,7 +118,7 @@ The generated reports are saved in the `data/` directory.
 
 ## 📊 Outputs
 
-![Ejecución del pipeline](images/salida_terminal.png)
+![Ejecución del pipeline](images/Salida_Terminal.png)
 
 ### Executive report — `resumen_dia.json`
 
