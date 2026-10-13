@@ -118,6 +118,8 @@ The generated reports are saved in the `data/` directory.
 
 ## 📊 Outputs
 
+![Ejecución del pipeline](images/salida_terminal.png)
+
 ### Executive report — `resumen_dia.json`
 
 Contains the business metrics calculated from the valid sales records, including revenue, average transaction value, category totals, and top products.
